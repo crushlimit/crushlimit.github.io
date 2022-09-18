@@ -6,7 +6,7 @@
     <description>Recent content in emacs on The Geeker&#39;s Way</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Sep 2022 16:36:00 +0800</lastBuildDate><atom:link href="https://crushlimit.github.io/categories/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Sep 2022 23:22:00 +0800</lastBuildDate><atom:link href="https://crushlimit.github.io/categories/emacs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Emacs is better than Vim</title>
       <link>https://crushlimit.github.io/posts/emacs-is-better/</link>
@@ -14,6 +14,15 @@
       
       <guid>https://crushlimit.github.io/posts/emacs-is-better/</guid>
       <description>Emacs has unbelievable features for almost unlimited expension vesus Vim. Basically speaking, Vim has lower entry for beginners to easily try how to edit files by a couple of minutes to practice only if you could memorize some fundermental commands. While Emacs will frustrate people without patience then quickly losing curiority on keeping on.</description>
+    </item>
+    
+    <item>
+      <title>Why text editor is so fansinating</title>
+      <link>https://crushlimit.github.io/posts/text-editor/</link>
+      <pubDate>Sun, 18 Sep 2022 23:22:00 +0800</pubDate>
+      
+      <guid>https://crushlimit.github.io/posts/text-editor/</guid>
+      <description>Text editor is an intergal part for human beings when carefully articulate the thoughts. People is not like machines that the recording capablity depends on flexible abilities.</description>
     </item>
     
   </channel>

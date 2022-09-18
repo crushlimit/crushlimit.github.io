@@ -6,7 +6,7 @@
     <description>Recent content on The Geeker&#39;s Way</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Sep 2022 16:36:00 +0800</lastBuildDate><atom:link href="https://crushlimit.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Sep 2022 23:22:00 +0800</lastBuildDate><atom:link href="https://crushlimit.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Emacs is better than Vim</title>
       <link>https://crushlimit.github.io/posts/emacs-is-better/</link>
@@ -23,6 +23,15 @@
       
       <guid>https://crushlimit.github.io/posts/common-lisp/</guid>
       <description>Common Lisp is a dialect of lisp languages family which has the most matured features than others. Since the popularity of Java, Clojure co-exists in JVM system has more welcome by the developers.</description>
+    </item>
+    
+    <item>
+      <title>Why text editor is so fansinating</title>
+      <link>https://crushlimit.github.io/posts/text-editor/</link>
+      <pubDate>Sun, 18 Sep 2022 23:22:00 +0800</pubDate>
+      
+      <guid>https://crushlimit.github.io/posts/text-editor/</guid>
+      <description>Text editor is an intergal part for human beings when carefully articulate the thoughts. People is not like machines that the recording capablity depends on flexible abilities.</description>
     </item>
     
   </channel>
