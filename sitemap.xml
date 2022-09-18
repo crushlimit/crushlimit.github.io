@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://crushlimit.github.io/posts/emacs-is-better/</loc>
+    <lastmod>2022-09-18T16:37:16+08:00</lastmod>
+  </url><url>
     <loc>https://crushlimit.github.io/posts/common-lisp/</loc>
     <lastmod>2022-09-18T15:49:55+08:00</lastmod>
   </url><url>
     <loc>https://crushlimit.github.io/categories/</loc>
-    <lastmod>2022-09-18T15:49:55+08:00</lastmod>
+    <lastmod>2022-09-18T16:37:16+08:00</lastmod>
   </url><url>
-    <loc>https://crushlimit.github.io/categories/languages/</loc>
-    <lastmod>2022-09-18T15:49:55+08:00</lastmod>
+    <loc>https://crushlimit.github.io/categories/emacs/</loc>
+    <lastmod>2022-09-18T16:37:16+08:00</lastmod>
   </url><url>
     <loc>https://crushlimit.github.io/posts/</loc>
-    <lastmod>2022-09-18T15:49:55+08:00</lastmod>
+    <lastmod>2022-09-18T16:37:16+08:00</lastmod>
   </url><url>
     <loc>https://crushlimit.github.io/</loc>
+    <lastmod>2022-09-18T16:37:16+08:00</lastmod>
+  </url><url>
+    <loc>https://crushlimit.github.io/categories/languages/</loc>
     <lastmod>2022-09-18T15:49:55+08:00</lastmod>
   </url><url>
     <loc>https://crushlimit.github.io/tags/</loc>

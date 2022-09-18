@@ -6,7 +6,16 @@
     <description>Recent content in Categories on The Geeker&#39;s Way</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Sep 2022 11:22:00 +0800</lastBuildDate><atom:link href="https://crushlimit.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Sep 2022 16:36:00 +0800</lastBuildDate><atom:link href="https://crushlimit.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>emacs</title>
+      <link>https://crushlimit.github.io/categories/emacs/</link>
+      <pubDate>Sun, 18 Sep 2022 16:36:00 +0800</pubDate>
+      
+      <guid>https://crushlimit.github.io/categories/emacs/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>languages</title>
       <link>https://crushlimit.github.io/categories/languages/</link>

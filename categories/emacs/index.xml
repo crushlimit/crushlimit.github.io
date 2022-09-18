@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>The Geeker&#39;s Way</title>
-    <link>https://crushlimit.github.io/</link>
-    <description>Recent content on The Geeker&#39;s Way</description>
+    <title>emacs on The Geeker&#39;s Way</title>
+    <link>https://crushlimit.github.io/categories/emacs/</link>
+    <description>Recent content in emacs on The Geeker&#39;s Way</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Sep 2022 16:36:00 +0800</lastBuildDate><atom:link href="https://crushlimit.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Sep 2022 16:36:00 +0800</lastBuildDate><atom:link href="https://crushlimit.github.io/categories/emacs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Emacs is better than Vim</title>
       <link>https://crushlimit.github.io/posts/emacs-is-better/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://crushlimit.github.io/posts/emacs-is-better/</guid>
       <description>Emacs has unbelievable features for almost unlimited expension vesus Vim. Basically speaking, Vim has lower entry for beginners to easily try how to edit files by a couple of minutes to practice only if you could memorize some fundermental commands. While Emacs will frustrate people without patience then quickly losing curiority on keeping on.</description>
-    </item>
-    
-    <item>
-      <title>Common Lisp</title>
-      <link>https://crushlimit.github.io/posts/common-lisp/</link>
-      <pubDate>Sun, 18 Sep 2022 11:22:00 +0800</pubDate>
-      
-      <guid>https://crushlimit.github.io/posts/common-lisp/</guid>
-      <description>Common Lisp is a dialect of lisp languages family which has the most matured features than others. Since the popularity of Java, Clojure co-exists in JVM system has more welcome by the developers.</description>
     </item>
     
   </channel>
