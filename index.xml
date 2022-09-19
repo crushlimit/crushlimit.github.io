@@ -6,7 +6,8 @@
     <description>Recent content on The Geeker&#39;s Way</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Sep 2022 23:22:00 +0800</lastBuildDate><atom:link href="https://crushlimit.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2022 by https://crushlimit.github.io</copyright>
+    <lastBuildDate>Mon, 19 Sep 2022 20:15:00 +0800</lastBuildDate><atom:link href="https://crushlimit.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Emacs is better than Vim</title>
       <link>https://crushlimit.github.io/posts/emacs-is-better/</link>
@@ -26,12 +27,12 @@
     </item>
     
     <item>
-      <title>Why text editor is so fansinating</title>
+      <title>Why text editor is so fancinating</title>
       <link>https://crushlimit.github.io/posts/text-editor/</link>
-      <pubDate>Sun, 18 Sep 2022 23:22:00 +0800</pubDate>
+      <pubDate>Mon, 19 Sep 2022 20:15:00 +0800</pubDate>
       
       <guid>https://crushlimit.github.io/posts/text-editor/</guid>
-      <description>Text editor is an intergal part for human beings when carefully articulate the thoughts. People is not like machines that the recording capablity depends on flexible abilities.</description>
+      <description>Text editor is an intergal part for human beings when carefully articulate the thoughts. People are not like machines that the recording capablity depends on the pieces of parts made up of metal and wires rather than flexible abilities.</description>
     </item>
     
   </channel>

@@ -5,6 +5,26 @@
     <link>https://crushlimit.github.io/tags/</link>
     <description>Recent content in Tags on The Geeker&#39;s Way</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://crushlimit.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>Copyright © 2022 by https://crushlimit.github.io</copyright>
+    <lastBuildDate>Mon, 19 Sep 2022 20:15:00 +0800</lastBuildDate><atom:link href="https://crushlimit.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>emacs</title>
+      <link>https://crushlimit.github.io/tags/emacs/</link>
+      <pubDate>Mon, 19 Sep 2022 20:15:00 +0800</pubDate>
+      
+      <guid>https://crushlimit.github.io/tags/emacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>languages</title>
+      <link>https://crushlimit.github.io/tags/languages/</link>
+      <pubDate>Sun, 18 Sep 2022 11:22:00 +0800</pubDate>
+      
+      <guid>https://crushlimit.github.io/tags/languages/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
